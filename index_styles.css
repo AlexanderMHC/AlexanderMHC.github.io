@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Layout and Typographical Style Sheet for portfolio page   
+   Filename: home_styles.css
+*/
+html{
+    background-color: rgb(27,0,1);
+    color: #d4d0d0;
+}
+img{
+    display: block;
+    width: 300px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0%;
+}
+#welcome-header{
+    text-align: center;
+    font-family:'Dapifer', Georgia, serif;
+    font-size: 50px;
+    text-decoration: underline 5px;
+    margin-top:0%;
+    margin-bottom:0%;
+    margin-right:20px;
+}
+#home-nav{
+    text-align: center;
+    margin-right:20px;
+    font-size: 20px;
+}
+a{
+    color:#d4d0d0;
+}
+hr{
+    margin-top:20px;
+    width:45%;
+}
+.info{
+    font-size:40px;
+    margin-left:30%;
+    margin-bottom:0%;
+}
+ul{
+    text-align:justify;
+    font-size: 20px;
+    margin-top:0%;
+    margin-left:30%;
+    margin-right:30%;
+}
+p{
+    text-align:justify;
+    font-size: 20px;
+    margin-top:0%;
+    margin-left:30%;
+    margin-right:30%;
+}
+footer{
+    margin-top:15.8%;
+    margin-bottom:0%;
+}
+#footer{
+    font-size:18px;
+    margin-bottom:0%;
+}
