@@ -40,6 +40,10 @@ hr{
     margin-left:30%;
     margin-bottom:0%;
 }
+table,th,td{
+    border:1px double;
+    border-color:#d4d0d0;
+}
 li{
     list-style-type: square;
     font-size:20px;
