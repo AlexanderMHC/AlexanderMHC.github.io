@@ -43,6 +43,7 @@ hr{
 table,th,td{
     border:1px double;
     border-color:#d4d0d0;
+    width: 40%;
 }
 li{
     list-style-type: square;
@@ -50,10 +51,35 @@ li{
 }
 #tutorials{
     margin-left:32%;
+    margin-right:30%;
     column-span:200px;
 }
+form{
+    width: 40%;
+    margin-top:10px;
+    margin-left:30%;
+    margin-right:30%;
+}
+.rateSlider{
+    width:100%;
+    accent-color: black;
+}
+.buttons{
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+}
+legend{
+    margin-left: auto;
+    margin-right:auto;
+}
+.feedback{
+    height:90px;
+}
+textarea{
+    width: 100%;
+}
 footer{
-    margin-top:12.8%;
     margin-bottom:0%;
 }
 #footer{
